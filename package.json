@@ -1,0 +1,11 @@
+{
+  "name": "@soulofmischief/stream",
+  "version": "0.1.3",
+  "description": "Helper library for mithril's stream data structure",
+  "type": "module",
+  "entry": "index.js",
+  "packageManager": "yarn@3.0.2",
+  "dependencies": {
+    "mithril": "^2.0.4"
+  }
+}
